@@ -1,10 +1,38 @@
-## Scaffold for React Projects
+# Scaffold for React Projects
 
 includes setup for:
 
 - Eslint
 - Prettier
 - Tailwind
+
+## Instructions
+
+Create new blank Repo and get the url
+
+git clone this repo
+
+```
+git clone https://github.com/felipedelatorre/create-react-project-starter.git
+```
+
+change origin remote
+
+```
+git remote set-url origin <newBlankRepoUrl>
+```
+
+push to new blank repo
+
+```
+git push -u origin master
+```
+
+Change project name in `package.json` and `package-lock.json`
+
+Lastly install dep and dev dep
+
+# React ReadMe
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
