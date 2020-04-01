@@ -1,12 +1,12 @@
 # Scaffold for React Projects
 
-includes setup for:
+Includes setup for:
 
 - [No-Sweat™](#Acknowledgements) Eslint and Prettier Setup
 - [TailwindCSS](https://tailwindcss.com/)
 - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 
-## Require VS Code Extension
+## Required VS Code Extension
 
 - [ESlint](https://eslint.org/)
 - [Prettier](https://prettier.io/)
@@ -18,7 +18,7 @@ includes setup for:
 2. Clone new forked repo
 
 ```
-git clone <newForkedRepoUrl>
+git clone <newForkedRepoURL>
 ```
 
 3. Change project name in `package.json` and `package-lock.json`
@@ -33,11 +33,11 @@ npm install
 
 ## VS Code Configs
 
-The `settings.json` in `.vscode` is needed for the editor to lint and fix the code. It is needed to the [No-Sweat™](#Acknowledgements) Eslint and Prettier Setup.
+The `settings.json` in `.vscode` is needed for the editor to lint and fix the code. It is needed for [No-Sweat™](#Acknowledgements) Eslint and Prettier Setup.
 
 ## Acknowledgements
 
-Thanks to [Wes Bos](https://github.com/wesbos) for [No-Sweat™](https://github.com/wesbos/eslint-config-wesbos) Eslint and Prettier Setup
+Thanks to [Wes Bos](https://github.com/wesbos) for [No-Sweat™ Eslint and Prettier Setup](https://github.com/wesbos/eslint-config-wesbos)
 
 # React ReadMe
 
