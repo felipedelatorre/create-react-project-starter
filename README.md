@@ -37,7 +37,7 @@ The `settings.json` in `.vscode` is needed for the editor to lint and fix the co
 
 ## Acknowledgements
 
-Thanks to [Wes Bos](https://github.com/wesbos) for [No-Sweat™] Eslint and Prettier Setup(https://github.com/wesbos/eslint-config-wesbos)
+Thanks to [Wes Bos](https://github.com/wesbos) for [No-Sweat™](https://github.com/wesbos/eslint-config-wesbos) Eslint and Prettier Setup
 
 # React ReadMe
 
