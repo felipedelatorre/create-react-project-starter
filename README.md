@@ -4,7 +4,7 @@ includes setup for:
 
 - [No-Sweat™](#Acknowledgements) Eslint and Prettier Setup
 - [TailwindCSS](https://tailwindcss.com/)
-- To do: Routing
+- [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 
 ## Require VS Code Extension
 
@@ -49,6 +49,8 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Runs `npm run watch:css` first to create the file that tailwind uses for styles
+
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -56,6 +58,8 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `npm run build`
+
+Runs `npm run buil:css` first to create the file that tailwind uses for styles
 
 Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
