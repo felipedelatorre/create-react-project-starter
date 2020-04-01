@@ -1,4 +1,4 @@
-# Scaffold for React Projects
+# Template for React Projects
 
 Includes setup for:
 
