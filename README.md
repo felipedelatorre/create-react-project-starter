@@ -15,7 +15,8 @@ Includes setup for:
 
 1. Fork Repo
 
-2. Clone new forked repo
+2. Click on Use This Template
+   ![Use This Template](src\assets\useThisTemplate.png)
 
 ```
 git clone <newForkedRepoURL>
