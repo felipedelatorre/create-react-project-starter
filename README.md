@@ -13,16 +13,17 @@ Includes setup for:
 
 ## Instructions
 
-1. Fork Repo
+1. Click on `Use This Template`
 
-2. Click on Use This Template
-   ![Use This Template](src\assets\useThisTemplate.png)
+![Use This Template](./src/assets/useThisTemplate.png)
+
+2. Give it a clever Repository name and click on the `Create repository from template` button
+
+3. Clone repo
 
 ```
 git clone <newForkedRepoURL>
 ```
-
-3. Change project name in `package.json` and `package-lock.json`
 
 4. Install dependencies
 
@@ -31,6 +32,18 @@ npm install
 ```
 
 5. You might have to restart VS Code for ESlint and Prettier to start working
+
+6) Run the app
+
+```
+npm start
+```
+
+## Make it yours
+
+- Change project name in `package.json` and `package-lock.json`
+- Delete ./src/assets/useThisTemaplate.png
+- Edit this README.md
 
 ## VS Code Configs
 
